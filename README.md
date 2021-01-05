@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **LSM / ORO**
 
-- 👨‍💻 All of my projects are available at [Not available yet](Not available yet)
+- 👨‍💻 All of my projects are available at (Not available yet)
 
 - 📝 I regularly write articles on [jickor.wordpress.com](jickor.wordpress.com)
 
@@ -25,5 +25,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jickor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jickor" /></a></p><br><br>
+[![Jickor's github stats](https://github-readme-stats.vercel.app/api?username=jickor)](https://github.com/jickor/github-readme-stats)
+

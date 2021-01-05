@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jickor</h1>
+<h3 align="center">A passionate QC from Vietnam</h3>
 
-<!--
-**jickor/jickor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jickor&label=Profile%20views&color=0e75b6&style=flat" alt="jickor" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **CANAL+**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Automation, Trading, Crypto**
+
+- 👯 I’m looking to collaborate on **LSM / ORO**
+
+- 👨‍💻 All of my projects are available at [Not available yet](Not available yet)
+
+- 📝 I regularly write articles on [jickor.wordpress.com](jickor.wordpress.com)
+
+- 💬 Ask me about **Psychology**
+
+- 📫 How to reach me **jicko@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/tathanhnguyen/](https://www.linkedin.com/in/tathanhnguyen/)
+
+- ⚡ Fun fact **Bookworms, Movies addicted,**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jickor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jickor" /></a></p><br><br>

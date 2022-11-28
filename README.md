@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jickor&label=Profile%20views&color=0e75b6&style=flat" alt="jickor" /> </p>
 
-- 🔭 I’m currently working on **CANAL+**
+- 🔭 I’m currently working on **CANAL+** - **PETRONAS** - **ACCOR** 
 
 - 🌱 I’m currently learning **Automation, Trading, Crypto**
 
